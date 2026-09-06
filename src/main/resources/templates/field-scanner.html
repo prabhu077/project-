@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Field Scanner</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+<div class="container">
+    <nav class="nav-links">
+        <a th:href="@{/}">Home</a>
+        <a th:href="@{/dashboard}">Dashboard</a>
+        <a th:href="@{/pipeline-management}">Pipeline Management</a>
+    </nav>
+
+    <h1>Field Scanner</h1>
+    <p>Upload a CSV file to discover sensitive fields, apply masking, and validate protection.</p>
+
+    <form th:action="@{/scan}" method="post" enctype="multipart/form-data">
+        <input type="file" name="file" accept=".csv" required>
+        <button type="submit">Scan File</button>
+    </form>
+
+    <div th:if="${error}" class="error-box">
+        <p th:text="${error}"></p>
+    </div>
+
+    <div th:if="${result}">
+        <h2>Results for: <span th:text="${result.fileName()}"></span></h2>
+
+        <div class="metrics-box">
+            <p>Fields scanned: <strong th:text="${result.metrics().fieldsScanned()}"></strong></p>
+            <p>Sensitive fields: <strong th:text="${result.metrics().sensitiveFields()}"></strong></p>
+            <p>Passed: <strong th:text="${result.metrics().passed()}"></strong></p>
+            <p>Failed: <strong th:text="${result.metrics().failed()}"></strong></p>
+            <p>Protection rate: <strong th:text="${#numbers.formatDecimal(result.metrics().protectionRate(), 1, 2)} + '%'"></strong></p>
+            <p>Publication decision:
+                <strong th:if="${result.publicationAllowed()}" class="pass-badge">ALLOWED</strong>
+                <strong th:unless="${result.publicationAllowed()}" class="fail-badge">BLOCKED</strong>
+            </p>
+        </div>
+
+        <table>
+            <thead>
+            <tr>
+                <th>Column</th>
+                <th>Detected Type</th>
+                <th>Masked Example Value</th>
+                <th>Status</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr th:each="field : ${result.fields()}">
+                <td th:text="${field.columnName()}"></td>
+                <td th:text="${field.fieldType()}"></td>
+                <td th:text="${field.maskedValue()}"></td>
+                <td>
+                    <span th:if="${field.passed()}" class="pass-badge">PASS</span>
+                    <span th:unless="${field.passed()}" class="fail-badge">FAIL</span>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,101 @@
+transaction_id,customer_name,card_number,product_category,purchase_amount,purchase_date
+TXN0001,Bankim Patil,5289462748894202,"Industrial, Jewelry & Toys",2813,Tue Aug 19
+TXN0002,Ujjwal Rana,7755234800933048,Automotive & Jewelry,2418,Fri Jun 15
+TXN0003,Dr. Devani Bharadwaj,8120971226421796,Jewelry,4641,Fri Oct 12
+TXN0004,Dharani Gupta DDS,4852284640235054,Tools,4495,Sun Sep 05
+TXN0005,Anuja Panicker,8610812977300387,Beauty,2403,Thu Mar 18
+TXN0006,Devesh Sinha DDS,8177089674065197,Automotive,301,Sat Feb 24
+TXN0007,Dharitri Bhat,5583015491615651,"Health, Shoes & Sports",2035,Fri Apr 19
+TXN0008,Chaaruchandra Patel,5678555593720554,"Grocery, Home & Sports",4661,Sat Jan 02
+TXN0009,Mina Kakkar,8705122309127422,"Health, Home & Toys",389,Thu Oct 14
+TXN0010,Chaanakya Patel DDS,2188981884020521,"Automotive, Outdoors & Tools",2461,Sun Oct 04
+TXN0011,Aanjaneya Khanna,4912406842789025,Baby & Industrial,4031,Sun Jun 11
+TXN0012,Anuraag Acharya,3786883327990784,Computers & Sports,1072,Wed Jan 27
+TXN0013,Anil Shah,3073380635912439,Clothing,2304,Sat Feb 29
+TXN0014,Mohan Patel,0441812673778376,Tools,3050,Sun Apr 09
+TXN0015,Sarla Devar Sr.,9192574677169880,Books & Tools,658,Sun Sep 22
+TXN0016,Jagadish Patel,1774990195993141,Home,4129,Thu Aug 29
+TXN0017,Rati Shah DVM,4247254428839278,Clothing,1482,Sun Jul 17
+TXN0018,Kin Adiga,8199819564561767,Movies,1452,Fri Apr 17
+TXN0019,Anshula Iyer MD,0887117063695441,"Grocery, Jewelry & Music",2263,Thu Oct 06
+TXN0020,Chitrangada Sharma,9734390459171458,Books & Games,1942,Tue May 29
+TXN0021,Giriraaj Guha IV,5827337461777775,Industrial,1176,Thu Dec 17
+TXN0022,Anasuya Abbott,2296037204865737,Grocery,3903,Fri Feb 04
+TXN0023,Lakshmi Malik DVM,5138544023316367,Sports,1650,Sat Apr 19
+TXN0024,Dr. Mayoor Mehra,2874051006526414,Movies,3945,Sun Aug 29
+TXN0025,Sucheta Ahuja,1677499570274825,Health,1160,Sun Aug 26
+TXN0026,Charuvrat Banerjee,5239851072681899,"Books, Kids & Sports",2028,Wed Feb 12
+TXN0027,Vinay Bandopadhyay,4034971593490829,"Garden, Music & Outdoors",443,Sun Oct 09
+TXN0028,Amish Adiga,6730919627249699,Movies,441,Wed May 21
+TXN0029,Chidambaram Sinha,6337122436070996,Health,1443,Wed Aug 14
+TXN0030,Laal Gupta,5273757196399424,Books & Health,2403,Sun Nov 25
+TXN0031,Vyas Gill PhD,6051950354335596,Clothing,3210,Sun Aug 10
+TXN0032,Rohana Nambeesan,5426381708104798,Baby,1808,Wed Dec 13
+TXN0033,Suma Embranthiri,6898264498475754,Kids,2231,Thu Mar 19
+TXN0034,Minakshi Banerjee,8114104815049085,Health,4809,Thu May 09
+TXN0035,Dron Mishra,2056358993733560,Sports,4082,Thu Oct 08
+TXN0036,Divakar Gandhi,7627933974392772,"Beauty, Grocery & Shoes",4906,Thu Oct 16
+TXN0037,Mrs. Sachin Embranthiri,5571569990695796,"Beauty, Electronics & Games",3754,Wed Oct 30
+TXN0038,Dipali Nayar,5659044652156252,Clothing,1934,Sun Jan 13
+TXN0039,Mrs. Ramesh Menon,3902799675288738,Home,4693,Sat May 29
+TXN0040,Chetan Mehrotra V,4846819754913564,Toys,1949,Tue Oct 11
+TXN0041,Baalagopaal Dhawan I,9770672695129376,Movies,4797,Wed Jun 14
+TXN0042,Shrishti Shah,9113337419668886,Movies & Sports,2396,Wed Jun 19
+TXN0043,Dhanesh Kapoor,1062847895673465,Books & Computers,323,Sat Jun 23
+TXN0044,Ms. Pranay Gowda,7183806687234848,Beauty,3385,Wed Jan 12
+TXN0045,Agastya Tagore,9356469892065692,Garden & Jewelry,4606,Thu Jan 18
+TXN0046,Gitanjali Malik Jr.,6725672473430372,"Beauty, Kids & Toys",4438,Thu May 22
+TXN0047,Trisha Bandopadhyay,3547050637300137,Garden & Industrial,2331,Tue Feb 13
+TXN0048,Shwet Banerjee,4621014960088391,Health & Music,2363,Sat Jan 14
+TXN0049,Chandravati Nair,3152350394259565,Beauty,3335,Tue Dec 21
+TXN0050,Ghanaanand Saini DVM,7346163523733404,Games,1959,Thu Sep 05
+TXN0051,Vasanti Shah,1501196322523275,Kids,3737,Mon Jan 10
+TXN0052,Deven Kaul,1543935563036330,Health,1958,Mon Feb 12
+TXN0053,Rahul Ahluwalia,5201538240507386,Kids,300,Mon Sep 30
+TXN0054,Deepan Malik,3426176601926895,Health & Shoes,1586,Tue Sep 26
+TXN0055,Chaten Nambeesan,9759675181625652,Movies & Sports,4727,Fri Jun 13
+TXN0056,Birjesh Iyer,2388701493950441,Industrial & Kids,1128,Sat Nov 24
+TXN0057,Guru Desai V,4685959084218459,Home,322,Mon Jan 04
+TXN0058,Chandranath Dhawan IV,4126628394811288,Baby,4190,Tue Nov 24
+TXN0059,Bhilangana Pothuvaal,8748714939970874,"Clothing, Health & Shoes",2314,Sun Dec 09
+TXN0060,Bankim Gill V,6972346555084578,"Grocery, Jewelry & Movies",2286,Sun Nov 05
+TXN0061,Ms. Manisha Trivedi,8713771235404779,Beauty,4545,Tue Jun 11
+TXN0062,Dr. Uma Joshi,7659302654736602,Clothing & Music,4822,Sat Feb 12
+TXN0063,Saroja Sethi IV,6200441267978570,Grocery,4351,Wed Apr 17
+TXN0064,Chandrabhaga Naik DVM,1710231308554521,"Automotive, Computers & Health",4340,Wed Dec 02
+TXN0065,Urmila Guneta,5508504320215347,Tools,4403,Mon May 05
+TXN0066,Ms. Harinarayan Tagore,9388372109083772,Movies & Toys,3761,Fri Sep 07
+TXN0067,Mrs. Kama Bhattacharya,1990974977133324,Garden & Shoes,4041,Tue Aug 19
+TXN0068,Dhanpati Shah,5027380636976472,Grocery & Jewelry,973,Tue Jun 10
+TXN0069,Mr. Drona Ahluwalia,7257514393189472,Baby,1315,Wed Apr 24
+TXN0070,Mrs. Shanti Johar,7982525151534404,"Home, Shoes & Sports",2729,Wed Jan 08
+TXN0071,Avani Tandon,4193246942185308,Beauty,4518,Sat Jan 23
+TXN0072,Brahma Agarwal,7184461546984395,"Electronics, Grocery & Industrial",3605,Sun Jan 24
+TXN0073,Jitendra Ganaka,8289474581086884,"Beauty, Music & Shoes",506,Sun Jan 21
+TXN0074,Vimal Khanna,6055366368574838,Clothing & Garden,3117,Sat Aug 03
+TXN0075,Ramesh Nambeesan,8566405273813410,Books,2184,Thu Nov 30
+TXN0076,Kirti Bhat,4780159715957189,Health & Sports,1613,Tue Mar 08
+TXN0077,Smita Bhattacharya IV,5812070475375836,Music & Toys,4402,Sun Oct 21
+TXN0078,Bhilangana Acharya,2651905350931930,Kids,2370,Thu Jun 21
+TXN0079,Akshita Dutta V,9188943708229486,Books,584,Wed Mar 24
+TXN0080,Arya Ganaka,2103663571439386,Games & Toys,2741,Tue Oct 10
+TXN0081,Rajinder Khan,2964598860258413,Games & Home,2096,Wed Aug 28
+TXN0082,Miss Acharyanandana Butt,4803554414363213,Toys,3873,Fri May 21
+TXN0083,Bela Bhattacharya,5273533792445078,Beauty,3430,Tue Jun 13
+TXN0084,Omana Jha,3508585446374135,Home,628,Tue Oct 03
+TXN0085,Kama Chattopadhyay,5386981655878403,"Books, Games & Health",4106,Sat May 31
+TXN0086,Mr. Anasuya Namboothiri,9309733161163825,Games,4718,Fri Jun 06
+TXN0087,Ms. Swami Dwivedi,0520925812264193,Clothing & Sports,237,Sat Sep 09
+TXN0088,Bhavani Prajapat,5878083222769657,"Computers, Electronics & Sports",3933,Mon Sep 15
+TXN0089,Bhadra Arora,2950839136973143,Books & Garden,2068,Wed Feb 09
+TXN0090,Ekalavya Mukhopadhyay,1519018509143381,"Electronics, Games & Garden",734,Fri Oct 19
+TXN0091,Himadri Iyengar,1824398504866652,"Home, Movies & Shoes",2156,Sat May 10
+TXN0092,Dr. Usha Achari,1159041653142572,Tools,763,Tue Jun 13
+TXN0093,Ganak Gandhi DDS,6411710112713038,"Baby, Books & Grocery",1582,Tue Feb 15
+TXN0094,Kanchan Kocchar V,7182802847017738,Baby,1539,Thu May 06
+TXN0095,Ganapati Banerjee IV,5446365087883805,Clothing & Grocery,4786,Thu Mar 30
+TXN0096,Kamala Devar,2640354779707351,Jewelry & Tools,4633,Tue Mar 02
+TXN0097,Trilokanath Kaul,9375660310272079,Toys,525,Mon Apr 06
+TXN0098,Aatmaja Mehra,4831347796793838,Tools,752,Thu Apr 09
+TXN0099,Veda Bharadwaj,4820195104047085,Garden,4021,Tue Jan 31
+TXN0100,Raj Talwar V,8200925717236991,Computers,2425,Mon Jul 07

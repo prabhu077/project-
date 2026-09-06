@@ -1,0 +1,101 @@
+supplier_id,supplier_name,contact_email,contact_number,gstin,pan_number,supply_category
+SUP0001,Naik Pvt Ltd,girja.gowda@yahoo.co.in,8797646800,29WKWAO6073O9ZA,CYTTU9824H,"Jewelry, Sports & Tools"
+SUP0002,"Mahajan, Butt and Patel",chiranjeev.nayar@hotmail.com,7430427691,00VCPGJ4643M2Z1,PMIMN4950D,"Baby, Grocery & Health"
+SUP0003,Ahuja and Sons,tanya.gill@hotmail.com,6933512774,35JYTZM1300I6Z6,OKMIE9964K,Automotive & Kids
+SUP0004,"Mishra, Pothuvaal and Sharma",trilokesh.butt@yahoo.co.in,9002283961,33YUHUU1695U5Z0,AHUVM9916E,Garden & Industrial
+SUP0005,Pothuvaal-Gupta,bhisham.gupta@hotmail.com,7310481516,06TLLFK4647Z0ZQ,GOJKX9980U,Books & Clothing
+SUP0006,Pandey-Sethi,chinmayananda.jha@hotmail.com,9881947258,22PYUWY0935I3ZY,QWVRK3467N,Automotive
+SUP0007,Mukhopadhyay-Bhattathiri,mohinder.menon@gmail.com,6257983723,11YISOM9805K9Z1,XSVBV3642G,Computers
+SUP0008,Bharadwaj Pvt Ltd,girik.pilla@hotmail.com,7240726130,25AJFEE1525R1Z1,CDWDA3636A,"Automotive, Music & Sports"
+SUP0009,Menon Ltd,siddhran.namboothiri@gmail.com,7834300705,25WOBJX3071A7ZV,KSMRN8040O,Movies
+SUP0010,Pandey-Trivedi,girish.desai@hotmail.com,9995691715,06KLINS7913Q0Z0,QJPMF5363R,Grocery
+SUP0011,"Chattopadhyay, Talwar and Guha",devangana.pilla@gmail.com,7840518471,13VJVGD5553X1Z3,ZFXLW3210U,Health
+SUP0012,Kaniyar-Nambeesan,avani.mehrotra@yahoo.co.in,6147347663,13GYCSK1876B7ZU,ISEBP9198B,"Books, Electronics & Movies"
+SUP0013,Gupta and Sons,agrata.dutta@hotmail.com,6850043279,27GDRSK8175B7Z4,KMQTV8408P,Automotive
+SUP0014,"Marar, Verma and Gowda",digambar.menon@gmail.com,8182690441,20UHCBD7312C4ZP,KPUNV9683V,"Automotive, Baby & Grocery"
+SUP0015,Rana Group,aruna.mehrotra@hotmail.com,7487089684,02PFBAW1482W9Z6,NRATB5105B,Industrial
+SUP0016,Adiga-Patel,dandak.shukla@hotmail.com,8467359079,29IHILY0884G0Z3,QLYXJ0664D,Baby & Health
+SUP0017,"Trivedi, Sharma and Dwivedi",mukesh.varman@hotmail.com,7878137544,22KVYCP3301W9ZD,XOPUZ6636C,Jewelry
+SUP0018,Reddy Limited,dhanesh.nayar@yahoo.co.in,9370386110,30HZOVI5898K8ZW,LSJUL4273R,Movies & Sports
+SUP0019,Kakkar Ltd,anandamayi.malik@hotmail.com,7442725688,20AFLON4963X5Z6,KJSHG9336C,Movies
+SUP0020,Mehrotra Brothers,tanushree.ganaka@yahoo.co.in,7000370290,12TDYLZ8269S3ZV,DXVLS4302D,Music
+SUP0021,"Johar, Khan and Kaur",anamika.singh@hotmail.com,7899024232,29GHZHS5205H1Z8,ODUAY1533D,Books
+SUP0022,Mahajan-Bhat,amodini.embranthiri@hotmail.com,8455072971,18DEIJK9844P5ZR,RJWON9879S,Outdoors
+SUP0023,Agarwal Ltd,sanka.mahajan@yahoo.co.in,7336697536,27XHOWX3383O3Z3,EMLEK9141L,Home
+SUP0024,Desai Ltd,vaijayanti.iyer@gmail.com,9760779317,35EJOQJ7373K9Z2,DMGLS0620Y,Books
+SUP0025,Shah-Chopra,devani.chattopadhyay@yahoo.co.in,6039393298,14FFSHR6106C6ZI,CFOOY3726Q,Games & Health
+SUP0026,Dubashi Limited,chandraayan.chaturvedi@hotmail.com,6713194397,01XLACK4323T3Z8,FNMLW3685T,Shoes
+SUP0027,Mahajan-Kaul,avani.guha@hotmail.com,8043206897,01VVIOB4864V8ZN,LASRA4407V,Sports
+SUP0028,Mishra-Iyengar,bishnu.bhattacharya@gmail.com,6517320558,21FQPRS9325R2Z9,LGBCD0140G,"Beauty, Movies & Shoes"
+SUP0029,"Mukhopadhyay, Sharma and Chattopadhyay",kama.tagore@hotmail.com,6355163611,26ESKXY6361S4ZY,EAQNB2303Y,Jewelry & Movies
+SUP0030,Marar Group,suryakanta.guha@gmail.com,6368303495,07AXRYS8625V5Z6,IYOEB6926R,Tools & Toys
+SUP0031,Varman-Acharya,chiranjeeve.nehru@hotmail.com,6696898573,35LOMOZ1041U9ZT,OWDPT6562A,"Grocery, Industrial & Shoes"
+SUP0032,"Nehru, Banerjee and Kocchar",paramartha.joshi@hotmail.com,6112227628,01BUNIN2815N5ZR,BVOOU2108W,"Books, Garden & Home"
+SUP0033,"Guneta, Jha and Shah",ankal.chaturvedi@hotmail.com,9516301474,02MEXEE1272U5Z9,AKSRS8057K,"Music, Outdoors & Toys"
+SUP0034,"Butt, Iyengar and Khanna",anilaabh.deshpande@yahoo.co.in,8244625154,12YALZE3874O2Z0,VLRUN9676K,Books
+SUP0035,Dwivedi and Sons,gorakhnath.ahuja@gmail.com,7855460741,25XFHWF3196A8ZM,GFDND2532N,Baby
+SUP0036,Sharma-Marar,ganak.butt@gmail.com,8293764962,36EYXGZ1280V3Z3,ZXZIR7497G,Jewelry
+SUP0037,Patil-Varma,devadatt.adiga@gmail.com,8263501903,34ZBEYV7005Z7Z8,NTVUZ4978I,"Health, Home & Sports"
+SUP0038,Jain-Iyengar,bhagwanti.arora@hotmail.com,6429174445,24ZUVLZ4208K1Z3,SNREI5697Y,Tools
+SUP0039,"Panicker, Gandhi and Varma",agrata.sinha@yahoo.co.in,8960498629,24BLBFK2610P6ZR,CFKJH3592Z,Electronics & Toys
+SUP0040,Pandey Ltd,shreya.bandopadhyay@yahoo.co.in,7782367352,01SQVBI0438A9Z0,FVZIX7564Y,Automotive
+SUP0041,"Jha, Guneta and Dubashi",chaturaanan.ahluwalia@gmail.com,9313345274,29JWJYI4066N3ZT,AEUFT7963B,Books & Home
+SUP0042,Varma-Singh,girja.namboothiri@gmail.com,8227204893,11AHFHU7353M9ZM,ETUNX8469Z,Games & Toys
+SUP0043,Prajapat and Sons,shashi.patil@yahoo.co.in,8463881712,05EGKVX2500T2ZD,TEPDZ4604G,Garden & Industrial
+SUP0044,Bharadwaj-Bharadwaj,hiranmay.devar@hotmail.com,7856239697,07QJHNB5930U6ZJ,IJJCE7067T,Garden
+SUP0045,"Bhattathiri, Malik and Pothuvaal",dayamayee.varma@hotmail.com,8238092414,26YCSJF6636H9Z5,GVNRH3119Q,Computers & Sports
+SUP0046,"Iyengar, Singh and Pilla",meghnad.malik@hotmail.com,8663486964,12QQOCQ8916Q4ZT,OGNUC9796D,Clothing
+SUP0047,Menon Ltd,gati.mehrotra@hotmail.com,8588410953,24NFNIQ2506Q7Z0,GIMVH7447E,Automotive
+SUP0048,Joshi-Mehra,priya.bhattacharya@hotmail.com,7387531965,34ZERVU6205J0Z9,RYWVD5795A,Baby
+SUP0049,Patel Group,bakula.nambeesan@hotmail.com,6253786224,11WCMMJ2190S6ZF,IJYAV7716Z,Computers & Kids
+SUP0050,Kocchar Ltd,brahma.nehru@yahoo.co.in,8073292666,23ZAMBU9204S0Z7,QSYUF4561V,"Beauty, Movies & Outdoors"
+SUP0051,Verma and Sons,nimit.menon@yahoo.co.in,6483015069,22LVMZF0724B1Z1,SHFYS0509Q,"Computers, Jewelry & Music"
+SUP0052,Marar Limited,devagya.prajapat@gmail.com,6615190974,31MSROF2286L5ZF,BDFZV9801L,Music
+SUP0053,Patel-Pilla,jai.kocchar@yahoo.co.in,8518176435,20AELOI5517A3ZP,KMWUD1050R,Health
+SUP0054,"Desai, Kocchar and Shukla",vrinda.adiga@hotmail.com,7041173833,05BLVXG8982R2ZW,QUAYG4797Y,Sports
+SUP0055,"Bandopadhyay, Devar and Pilla",niro.varma@gmail.com,7281448206,18GVJQP1225Y7ZT,JHDHG9495P,"Automotive, Baby & Grocery"
+SUP0056,Malik-Joshi,naveen.malik@hotmail.com,8603172976,13YHQTC5194A1Z1,DJLFT5904V,Shoes
+SUP0057,Namboothiri Corp,kanaka.shukla@yahoo.co.in,9812063393,04MJTST1651H3Z4,RYSYK5976H,Books
+SUP0058,Ganaka Limited,rupinder.kakkar@yahoo.co.in,7082754919,12ARXZN4526G7Z2,VUJRB5242H,Jewelry & Sports
+SUP0059,"Kapoor, Nehru and Trivedi",gopi.joshi@yahoo.co.in,7231286316,26QLJZD7523W3ZP,ZCNBU3331L,"Beauty, Computers & Electronics"
+SUP0060,Nair-Gill,ghanaanand.butt@yahoo.co.in,8734035739,30RVGRU7337Q8Z2,JYZOV3686B,Health
+SUP0061,Singh-Shah,kumuda.kaur@yahoo.co.in,8157186802,08ETWHA8422O7ZX,DISBH0151W,Computers & Movies
+SUP0062,Bhattathiri Corp,chaanakya.bhat@gmail.com,9512060013,25OCYEZ8026X8Z1,GPXEG3391S,Tools & Toys
+SUP0063,"Shukla, Bhattacharya and Varma",avani.trivedi@hotmail.com,8054766621,08DNARQ3170J1Z2,DEDJF5264J,"Games, Movies & Tools"
+SUP0064,Verma-Kaur,dhyaneshwar.tagore@hotmail.com,9402630662,16XDUHZ9626Z8ZR,XZWBK9468B,Jewelry
+SUP0065,"Sethi, Asan and Mehrotra",deeptendu.sethi@hotmail.com,8910394860,17WTVGM7885I0ZN,NEIKQ3124F,Music
+SUP0066,Mishra Pvt Ltd,swarnalata.khan@yahoo.co.in,8521188779,12OOZHG0620F7ZH,WHEPQ3754B,"Games, Music & Tools"
+SUP0067,"Kaul, Shukla and Dhawan",heema.asan@gmail.com,6465278246,17SQEOF7263D6ZK,ZDADG6569O,Toys
+SUP0068,Nambeesan-Mehrotra,yogesh.khatri@hotmail.com,8193346676,14GEIHQ1100L4Z4,VPCAF4857K,Movies
+SUP0069,"Varma, Dutta and Bandopadhyay",sheela.shukla@gmail.com,6903005916,20KADKT5321Z3Z4,YHFGA1552C,"Garden, Health & Industrial"
+SUP0070,"Asan, Naik and Butt",ambar.butt@gmail.com,8944773255,34ELVMV7748X8ZI,XGVFJ7254I,Shoes
+SUP0071,Nehru-Patel,chandraprabha.saini@hotmail.com,8064477578,27RKKGM2283V7ZU,VHDFD4582A,"Computers, Garden & Tools"
+SUP0072,Kakkar and Sons,anasuya.mishra@gmail.com,7391655294,00BSHTY6517E5ZO,ASBEO6853E,Health
+SUP0073,Mishra-Varrier,dwaipayana.mishra@hotmail.com,8525243200,20ZJDHH9811I5ZS,KWDDC7891A,Clothing & Shoes
+SUP0074,Bhat Group,lavanya.varrier@gmail.com,7509071631,14WEFIE6246Y8Z8,WDMVN1657F,Music
+SUP0075,Mukhopadhyay Ltd,devani.khan@hotmail.com,9214927946,01DMDFD8859N4ZG,SCHND1101U,Books
+SUP0076,Pilla Group,adikavi.tandon@yahoo.co.in,7489461334,13EPMRX7986L2Z3,HANCX4107D,"Clothing, Movies & Shoes"
+SUP0077,Jain-Prajapat,samir.adiga@hotmail.com,7823304184,08ZPPVF4263Q7ZT,NXPXV8304B,Music
+SUP0078,Varman Limited,gopaal.khan@yahoo.co.in,7868678586,15UYCYH0004Q8Z8,UWKDD8451N,Home
+SUP0079,Acharya Pvt Ltd,jitendra.guha@gmail.com,7535778012,11CNLCP8527Y7Z9,XEVWS8503A,"Health, Kids & Music"
+SUP0080,Achari-Gupta,goswamee.pillai@yahoo.co.in,9592186436,12EJEQJ0705D4Z4,ABBKA5457Y,Beauty
+SUP0081,Dutta-Khatri,sudeva.kaul@hotmail.com,8071608158,26UXRPF4200K8Z1,MKGFT5862G,Automotive
+SUP0082,"Panicker, Saini and Bharadwaj",acaryatanaya.kaniyar@hotmail.com,7703853465,30IRWRP6180O2Z4,NJKQP4129R,Automotive & Outdoors
+SUP0083,Guha Pvt Ltd,sumitra.dwivedi@gmail.com,7859520670,10LFZLP2553W3ZT,KOSRS4486C,Baby
+SUP0084,Patel Brothers,gautam.deshpande@hotmail.com,7680874236,22XXLQX3228E6Z6,XFDOU6884Y,Music
+SUP0085,Guneta and Sons,ankal.bhattathiri@yahoo.co.in,9298817410,23VYUFR7415S0Z7,SGMPW4241W,"Baby, Books & Home"
+SUP0086,Somayaji Brothers,dwaipayan.malik@yahoo.co.in,8548069081,29ABQPS5737D0Z5,RCGXF3078C,Garden
+SUP0087,Singh Ltd,ambar.mehra@gmail.com,9692428901,21KZCYM6935I7Z6,YGIPR0503R,"Beauty, Computers & Industrial"
+SUP0088,Kakkar-Namboothiri,agniprava.chattopadhyay@yahoo.co.in,6736780266,23FVUNZ7632E6Z8,ADOXG2266U,"Health, Kids & Toys"
+SUP0089,"Marar, Nambeesan and Sharma",chapal.marar@hotmail.com,8800431133,28LAUZO7401Y4ZO,JPVSI4657U,"Grocery, Kids & Sports"
+SUP0090,Devar Group,chandni.prajapat@gmail.com,9143958428,30OVIZD7292C9Z8,SGHUK9314G,"Computers, Electronics & Home"
+SUP0091,Kaur-Marar,purushottam.acharya@gmail.com,9141868680,17QYISQ4766I5Z0,RXHHV7216X,Jewelry
+SUP0092,Mehrotra Ltd,aadi.mukhopadhyay@yahoo.co.in,7067465129,10NXHFU8098S4Z7,BPATO6520W,Games
+SUP0093,"Mehra, Ahluwalia and Patil",chaaruchandra.sinha@hotmail.com,7602880442,05VZEJG3269L1ZW,FSOKB2186N,Kids
+SUP0094,"Iyer, Sethi and Menon",rati.talwar@hotmail.com,7952699323,06KYKJO5136R5Z9,QVMVQ3620Y,Industrial
+SUP0095,Iyengar-Joshi,chaturbhuj.asan@yahoo.co.in,9953746506,28JXAXB8380G7Z7,GEVZG3458A,Baby & Kids
+SUP0096,Banerjee-Butt,swami.nehru@gmail.com,7517648578,09GUZJB7092H7Z8,ELJWK3715Z,Grocery & Toys
+SUP0097,Pothuvaal Pvt Ltd,akroor.asan@yahoo.co.in,8916479725,02TAPOQ0345A9ZG,WOEPW4003O,Toys
+SUP0098,"Pothuvaal, Sinha and Bharadwaj",dayaananda.sinha@gmail.com,7316210119,35SEGQO5755M6Z7,OOCJE5666J,Outdoors & Shoes
+SUP0099,Kakkar Brothers,dhanapati.khatri@gmail.com,7043084556,18PXRPE1206Q5Z2,LSHHN2720D,Baby
+SUP0100,Nayar-Khatri,bhooshit.menon@gmail.com,8572910890,26IQAWE4514G9Z8,IJDTS8404Q,Movies

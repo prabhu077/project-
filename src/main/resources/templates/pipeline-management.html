@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Pipeline Management</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+<div class="container">
+    <nav class="nav-links">
+        <a th:href="@{/}">Home</a>
+        <a th:href="@{/dashboard}">Dashboard</a>
+        <a th:href="@{/field-scanner}">Field Scanner</a>
+    </nav>
+
+    <h1>Pipeline Management</h1>
+
+    <div th:if="${message}" class="metrics-box">
+        <p th:text="${message}"></p>
+    </div>
+
+    <div class="metrics-box">
+        <p>Current mode: <strong th:text="${mode}"></strong></p>
+        <p>Pipeline version: <strong th:text="${version}"></strong></p>
+    </div>
+
+    <form th:action="@{/pipeline/rollback}" method="post" style="display:inline;">
+        <button type="submit">Rollback to Legacy (v1.0)</button>
+    </form>
+
+    <form th:action="@{/pipeline/activate}" method="post" style="display:inline;">
+        <button type="submit">Activate Validator (v2.0)</button>
+    </form>
+
+    <p style="margin-top:20px;">
+        In <strong>legacy</strong> mode, data passes through with no masking or validation
+        (demonstrates coexistence with the old workflow, section 23).
+        In <strong>validator</strong> mode, the full Discovery -&gt; Masking -&gt; Validation pipeline runs.
+    </p>
+</div>
+</body>
+</html>

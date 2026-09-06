@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+<div class="container">
+    <nav class="nav-links">
+        <a th:href="@{/}">Home</a>
+        <a th:href="@{/field-scanner}">Field Scanner</a>
+        <a th:href="@{/pipeline-management}">Pipeline Management</a>
+    </nav>
+    <h1>Dashboard</h1>
+    <p>Run a scan on the <a th:href="@{/field-scanner}">Field Scanner</a> page to see live metrics.</p>
+    <p>This screen will show aggregate protection-rate metrics once a scan has been run (section 30).</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f6fa;
+    margin: 0;
+    padding: 0;
+    color: #222;
+}
+.container {
+    max-width: 900px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 30px 40px;
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.centered {
+    text-align: center;
+}
+.nav-links {
+    margin-bottom: 20px;
+}
+.nav-links a {
+    margin-right: 16px;
+    text-decoration: none;
+    color: #2c5cc5;
+    font-weight: bold;
+}
+h1 {
+    color: #1b2a4a;
+}
+form {
+    margin: 20px 0;
+}
+button {
+    background: #2c5cc5;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+button:hover {
+    background: #1b3f8f;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px 12px;
+    text-align: left;
+}
+th {
+    background: #eef1f8;
+}
+.pass-badge {
+    color: #1a7a34;
+    font-weight: bold;
+}
+.fail-badge {
+    color: #b32020;
+    font-weight: bold;
+}
+.metrics-box {
+    background: #f0f3fb;
+    border-radius: 6px;
+    padding: 14px 20px;
+    margin: 16px 0;
+}
+.error-box {
+    background: #fde8e8;
+    color: #b32020;
+    padding: 12px 18px;
+    border-radius: 6px;
+    margin: 16px 0;
+}
